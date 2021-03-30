@@ -9,3 +9,6 @@ const ArticleItem = ({ article }) => {
         <p>{article.excerpt}</p>
         </a>
     </Link>
+      )
+    }
+    
