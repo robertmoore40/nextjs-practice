@@ -12,3 +12,4 @@ const ArticleItem = ({ article }) => {
       )
     }
     
+    export default ArticleItem
