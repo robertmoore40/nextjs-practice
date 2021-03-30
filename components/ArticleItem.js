@@ -7,3 +7,5 @@ const ArticleItem = ({ article }) => {
         <a className={articleStyles.card}>
         <h3>{article.title} &rarr;</h3>
         <p>{article.excerpt}</p>
+        </a>
+    </Link>
