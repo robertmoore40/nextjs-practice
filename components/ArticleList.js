@@ -8,3 +8,5 @@ const ArticleList = ({ articles }) => {
              <ArticleItem article={article} />
              ))}
                </div>
+                )
+            }
