@@ -10,3 +10,4 @@ const ArticleList = ({ articles }) => {
                </div>
                 )
             }
+            export default ArticleList
