@@ -9,3 +9,6 @@ const Header = () => {
       <p className={headerStyles.description}>
         Keep up to date with the latest web dev news
       </p>
+      </div>
+  )
+}
