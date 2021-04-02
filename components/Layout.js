@@ -14,3 +14,5 @@ const Layout = ({ children }) => {
         <Header />
           {children}
         </main>
+        </div>
+    </>
