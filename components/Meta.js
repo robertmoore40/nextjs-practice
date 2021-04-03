@@ -19,3 +19,5 @@ Meta.defaultProps = {
     description: 'Get the latest news in web dev',
   }
   
+
+  export default Meta
