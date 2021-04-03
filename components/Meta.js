@@ -12,3 +12,6 @@ const Meta = ({ title, keywords, description }) => {
     </Head>
   );
 };
+
+Meta.defaultProps = {
+    title: 'WebDev Newz',
