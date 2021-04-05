@@ -5,4 +5,5 @@
 const Nav = () => {
     return (
         <nav className={navStyles.nav}>
-      <ul></ul>
+        <ul>
+          <li>
