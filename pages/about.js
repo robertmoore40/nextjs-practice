@@ -6,3 +6,5 @@ const about = () => {
       <Meta title='About' />
       <h1>About</h1>
     </div>
+     )
+    }
