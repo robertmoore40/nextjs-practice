@@ -6,3 +6,6 @@ export default function Home({ articles }) {
         <div>
       <ArticleList articles={articles} />
     </div>
+      )
+    }
+    
