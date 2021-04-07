@@ -8,3 +8,6 @@ export default function Home({ articles }) {
     </div>
   );
 }
+
+export const getStaticProps = async () => {
+    const res = await fetch(`${server}/api/articles`)
