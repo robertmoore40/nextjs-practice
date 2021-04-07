@@ -1,11 +1,10 @@
-import { server } from '../config'
-import ArticleList from '../components/ArticleList'
+import { server } from "../config";
+import ArticleList from "../components/ArticleList";
 
 export default function Home({ articles }) {
-    return (
-        <div>
+  return (
+    <div>
       <ArticleList articles={articles} />
     </div>
-      )
-    }
-    
+  );
+}
