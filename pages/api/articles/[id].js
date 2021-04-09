@@ -11,3 +11,5 @@ export default function handler({ query: { id } }, res) {
         res
           .status(404)
           .json({ message: `Article with the id of ${id} is not found` })
+        }
+    }
